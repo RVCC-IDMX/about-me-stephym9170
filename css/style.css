@@ -17,7 +17,6 @@ header {
 #hero {
     background-color: #87BFFF;
     padding: 10px;
-    border: 3px solid #376BA6;
     text-align: center;
 }
 
@@ -29,6 +28,7 @@ header {
 /* Bio Section */
 #bio {
     text-align: center;
+    border: 5px solid #376BA6;
 }
 
 #footer {
@@ -47,3 +47,17 @@ section#hobbies {
     border: 2px solid #376BA6;
     margin-bottom:1rem;
     }
+   
+ /*Gallery*/
+#gallery {
+    border: 5px solid #376BA6;
+    margin-bottom:2rem
+}
+
+#gallery img {
+    max-width:100%;
+}
+
+#gallery figure {
+    text-align: center;
+}
