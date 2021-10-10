@@ -34,3 +34,16 @@ header {
 #footer {
     text-align: center;
 }
+/* Hobby Section */
+
+section#hobbies {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#hobbies ul li {
+    color:#376BA6;
+    border: 2px solid #376BA6;
+    margin-bottom:1rem;
+    }
