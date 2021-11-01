@@ -29,6 +29,8 @@ header {
 /* Bio Section */
 #bio {
     text-align: center;
+    border:5px solid #376BA6;
+    margin-top: 2rem;
 
 }
 #footer {
@@ -44,7 +46,7 @@ section#hobbies {
 
 #hobbies ul li {
     color:#376BA6;
-    border: 3px solid #376BA6;
+    border: 5px solid #376BA6;
     margin-bottom:1rem;
     }
    
@@ -111,3 +113,10 @@ section#hobbies {
     }
 
  }
+
+ /* My Video */
+ #video {
+    border: 5px solid #376BA6;
+    margin-top:2rem;
+}
+ 
